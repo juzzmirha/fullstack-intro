@@ -1,0 +1,9 @@
+.posts{
+    gap: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #181818;
+    padding: 10px 30px;
+    margin: 10px;
+    width: 50%;
+}
